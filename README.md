@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me :
 Hi! I'm med, a passionate and curious developer focused on building efficient, scalable, and user-friendly applications. I’m currently sharpening my skills in JavaScript and MongoDB, and I love diving into new technologies and solving real-world problems with code.<br><br>🔭 I’m currently working on leveling up my full-stack development skills<br><br>🌱 Learning deeply about MongoDB and backend architecture<br><br>👯 I’m open to collaboration on open-source projects and practical learning challenges<br><br>💬 Ask me about JavaScript, NoSQL databases, or anything tech-related<br><br>⚡ Fun fact: I see coding as a mix of art and logic—and I enjoy both sides of it!
 
 
